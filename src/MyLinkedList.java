@@ -1,13 +1,15 @@
-class IntNode {
+//TODO: change this Node Class to take in a generic type as its data
+class Node {
     int data;
-    IntNode next;
+    Node next;
 
-    public IntNode(int data) {
+    public Node(int data) {
         this.data = data;
     }
 }
 
-public class MyIntLinkedList {
+//TODO: change this linkList class to use your new node class
+public class MyLinkedList {
 
     private IntNode root;
 
