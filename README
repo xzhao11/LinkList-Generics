@@ -1,2 +1,3 @@
 LinkList Generics Exercise
 
+You will find your code template in the src/MyIntLinkedList.java file. Currently this template functions as a linked list that only stores integer objects. The driver
